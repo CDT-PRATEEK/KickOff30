@@ -9,7 +9,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Prerequisites
 
-Android Studio Giraffe | 2022.3.1 or later
+Android Studio Giraffe | 2022.3.1 or later  
 Build #AI-223.8836.35.2231.10406996, built on June 29, 2023
 Runtime version: 17.0.6+0-b2043.56-10027231 amd64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
